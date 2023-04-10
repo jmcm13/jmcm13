@@ -1,0 +1,19 @@
+body {
+  background: #f3f3f3 url(/caspio-tm-project/images/bg_top.jpg) repeat-x;
+  font-family: Arial;
+	font-size: 12px;
+	margin: 0;
+}
+
+.content {
+  background-color: white;
+  position: relative;
+  padding: 0;
+}
+
+.wrap {
+    margin: 0 auto;
+    width: 1080px;
+    position: relative;
+    min-height: 100px;
+}
